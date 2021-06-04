@@ -4,7 +4,7 @@
 
 <p>A bluetooth gamepad "host" for the ESP32.</p>
 <p>Based on BTStack v1.1 example "external\btstack\example\hid_host_demo.c".</p>
-<p>I am not C++ programmer, sorry for my code ;).</p>
+<p>I am not C++ programmer, sorry for my code ;)</p>
 
 ## Features
 
@@ -37,7 +37,7 @@ Install the ESP32 toolchain. Use version **4.1** or newer.
 2. Clone repo
 
 ```
-$ git clone https://gitlab.com/overplex/pg9021.git
+$ git clone git@github.com:overplex/pg9021.git
 $ cd pg9021
 $ git submodule update --init
 ```
